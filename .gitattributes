@@ -1,0 +1,12 @@
+* text=auto
+
+*.png binary
+*.jpg binary
+*.tif binary
+*.fbx binary
+*.ttf binary
+*.otf binary
+*.wav binary
+
+Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Assets/Samples/** linguist-vendored

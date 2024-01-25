@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - input
+  - layer1
+  - layer2
+  - layer3
+  - layer4
+  - layer5
+  - output
+  - untaggedNeuron
+  - groundtruth
+  - setClass
+  - Cube
+  - Pickable
+  - DatasetCube
+  - datasetCard
+  - Feature
+  - YComp
+  - XComp
+  - ZComp
+  - Dataset
+  - FeatureSelection
+  - FreeRotating
+  - toClassify
+  - datapoint
+  - centroid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - AttachmentHands
+  - IgnoreHands
+  - OnlyHandsInteraction
+  - IgnoreAll
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
